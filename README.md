@@ -6,7 +6,9 @@
 I’m Naman Bhayana, a Computer Engineering graduate passionate about building scalable solutions at the intersection of full stack development, machine learning, and blockchain. From automating job recruitment to empowering artists with NFT marketplaces, I thrive on solving real-world problems through tech.<br><br>👉 I engineer robust full stack applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), blending functionality with intuitive user experience.<br>👉 I’ve developed ML-powered systems for intelligent robotics and optimized trading strategies with custom indicators — bridging AI theory with practical applications.<br>👉 I explore blockchain by crafting decentralized platforms like ArtBlock to enable secure and direct monetization for digital creators.<br><br>Currently, I'm expanding my knowledge in advanced backend systems and distributed computing to build smarter, faster, and more inclusive technology.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanbhayana007) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naman.bhayana13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanbhayana007) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naman.bhayana13@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naman_bhayana) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/bhayana_naman)
+
 
 # 💻 Tech Stack:
 
