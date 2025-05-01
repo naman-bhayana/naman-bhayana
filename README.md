@@ -69,21 +69,40 @@ I’m Naman Bhayana, a Computer Engineering graduate passionate about building s
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
-### 💼 Job Consultancy Platform
-Built a MERN-based platform to streamline job search and hiring. Implemented real-time messaging, advanced search, and secure authentication. Improved matching efficiency by 30% and reduced job seeker time by 20%.
+## 🚀 Featured Projects
 
-### 🧠 Robots in Retail
-Led a team to build an intelligent robot with ML and computer vision for object detection and tracking in retail. Integrated sensors using Arduino and programmed microcontrollers to create a working prototype for intelligent automation.
+### 🛒 Intellishop – AI-Powered Retail Robot
+A smart in-store assistant that uses computer vision and NLP to guide customers and manage inventory in real time.
 
-### 🎨 ArtBlock (Blockchain NFT Marketplace)
-Developed a decentralized NFT marketplace empowering creators to showcase and monetize digital art via blockchain. Leveraged Solidity, Web3.js, MongoDB, and React to deliver a secure, user-friendly prototype for direct artist-audience interaction.
+- 🔗 [Repo](https://github.com/naman-bhayana/Intellishop)
+- ⚙️ Tech Stack: Python, OpenCV, NLP, Machine Learning, Raspberry Pi, IoT
 
-### 🧮 Trading Bot Optimization 
-Enhanced algorithmic trading bots by integrating technical indicators using Pine Script. Improved performance, achieving up to 71% success rate in strategy optimization.
+---
 
+### 🌐 Job Consultancy Platform
+Full-stack web application connecting job seekers and recruiters, improving job matching efficiency by 30% and reducing search time by 20%.
+
+- 🔗 [Repo](https://github.com/naman-bhayana/job-consultancy-platform)
+- ⚙️ Tech Stack: MongoDB, Express.js, React.js, Node.js, RESTful APIs, Redux Toolkit
+
+---
+
+### 🎨 ArtBlock – NFT Marketplace
+A blockchain-based NFT marketplace enabling artists to mint, list, and sell digital art securely.
+
+- 🔗 [Repo](https://github.com/naman-bhayana/ArtBlock)
+- ⚙️ Tech Stack: Solidity, Web3.js, React, Redux, Smart Contracts, IPFS
+
+---
+
+### 🤖 Algo Trading Bot
+Custom-built trading bots using technical indicators and ML for strategy optimization with up to 71% success rate.
+
+- 🔗 [Repo](https://github.com/naman-bhayana/algo-trading-bot)
+- ⚙️ Tech Stack: Python, Pandas, NumPy, TA-Lib, REST APIs
 
 # 📈 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=namanbhayana007&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=naman-bhayana&theme=radical&hide_border=false)
 
 ### ✍️ Quote for the Journey:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
