@@ -102,8 +102,7 @@ Custom-built trading bots using technical indicators and ML for strategy optimiz
 - ⚙️ Tech Stack: Python, Pandas, NumPy, TA-Lib, REST APIs
 
 # 📈 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=naman-bhayana&theme=radical&hide_border=false)
-
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-bhayana&show_icons=true&count_private=true&hide=prs&theme=radical)
 ### ✍️ Quote for the Journey:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
