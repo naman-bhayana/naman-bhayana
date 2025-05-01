@@ -71,18 +71,18 @@ I’m Naman Bhayana, a Computer Engineering graduate passionate about building s
 
 ## 🚀 Featured Projects
 
-### 🛒 Intellishop – AI-Powered Retail Robot
+### 🤖 Intellishop – AI-Powered Retail Robot  
 A smart in-store assistant that uses computer vision and NLP to guide customers and manage inventory in real time.
 
-- 🔗 [Repo](https://github.com/naman-bhayana/Intellishop)
+- 🔗 [Repo](https://github.com/naman-bhayana/Intellishop)  
 - ⚙️ Tech Stack: Python, OpenCV, NLP, Machine Learning, Raspberry Pi, IoT
 
 ---
 
-### 🌐 Job Consultancy Platform
+### 💼 Jobzee – Job Consultancy Platform  
 Full-stack web application connecting job seekers and recruiters, improving job matching efficiency by 30% and reducing search time by 20%.
 
-- 🔗 [Repo](https://github.com/naman-bhayana/job-consultancy-platform)
+- 🔗 [Repo](https://github.com/naman-bhayana/Jobzee)  
 - ⚙️ Tech Stack: MongoDB, Express.js, React.js, Node.js, RESTful APIs, Redux Toolkit
 
 ---
