@@ -103,17 +103,8 @@ Custom-built trading bots using technical indicators and ML for strategy optimiz
 
 # 📈 GitHub Stats:
 ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-bhayana&show_icons=true&count_private=true&hide=prs&theme=radical)
-# Hi, I'm Naman Bhayana 👋
-
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-bhayana&show_icons=true&count_private=true&hide=prs&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naman-bhayana&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-bhayana&layout=compact&theme=radical)
 
-## Achievements:
-![Trophy](https://github-profile-trophy.vercel.app/?username=naman-bhayana&theme=radical)
-
-## Activity:
-![Naman's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=naman-bhayana&bg_color=000000&color=ff0000&line=ff0000&point=00ff00&area=true&hide_border=true)
 
 ### ✍️ Quote for the Journey:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
