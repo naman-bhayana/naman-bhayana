@@ -72,35 +72,51 @@ I’m Naman Bhayana, a Computer Engineering graduate passionate about building s
 
 ## 🚀 Featured Projects
 
+### 🏡 WanderNest – Vacation Rental App  
+A full-stack vacation rental platform with secure CRUD operations, Mapbox maps integration, and OAuth login for seamless booking experiences.  
+
+- 🔗 [Live](https://wandernest-j69y.onrender.com/) | [Repo](https://github.com/naman-bhayana/WanderNest)  
+- ⚙️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Mapbox, OAuth  
+
+---
+
+### 🎮 Plinko – Interactive Physics Game  
+An engaging React + TypeScript-based Plinko game with real-time physics, smooth animations, and a responsive UI.  
+
+- 🔗 [Live](https://plinko-frontend-hvak.onrender.com/) | [Repo](https://github.com/naman-bhayana/Plinko)  
+- ⚙️ Tech Stack: React, TypeScript, Physics.js, CSS  
+
+---
+
 ### 🤖 Intellishop – AI-Powered Retail Robot  
-A smart in-store assistant that uses computer vision and NLP to guide customers and manage inventory in real time.
+A smart in-store assistant that uses computer vision and NLP to guide customers and manage inventory in real time.  
 
 - 🔗 [Repo](https://github.com/naman-bhayana/Intellishop)  
-- ⚙️ Tech Stack: Python, OpenCV, NLP, Machine Learning, Raspberry Pi, IoT
+- ⚙️ Tech Stack: Python, OpenCV, NLP, Machine Learning, Raspberry Pi, IoT  
 
 ---
 
 ### 💼 Jobzee – Job Consultancy Platform  
-Full-stack web application connecting job seekers and recruiters, improving job matching efficiency by 30% and reducing search time by 20%.
+Full-stack web application connecting job seekers and recruiters, improving job matching efficiency by 30% and reducing search time by 20%.  
 
 - 🔗 [Repo](https://github.com/naman-bhayana/Jobzee)  
-- ⚙️ Tech Stack: MongoDB, Express.js, React.js, Node.js, RESTful APIs, Redux Toolkit
+- ⚙️ Tech Stack: MongoDB, Express.js, React.js, Node.js, RESTful APIs, Redux Toolkit  
 
 ---
 
-### 🎨 ArtBlock – NFT Marketplace
-A blockchain-based NFT marketplace enabling artists to mint, list, and sell digital art securely.
+### 🎨 ArtBlock – NFT Marketplace  
+A blockchain-based NFT marketplace enabling artists to mint, list, and sell digital art securely.  
 
-- 🔗 [Repo](https://github.com/naman-bhayana/ArtBlock)
-- ⚙️ Tech Stack: Solidity, Web3.js, React, Redux, Smart Contracts, IPFS
+- 🔗 [Repo](https://github.com/naman-bhayana/ArtBlock)  
+- ⚙️ Tech Stack: Solidity, Web3.js, React, Redux, Smart Contracts, IPFS  
 
 ---
 
-### 🤖 Algo Trading Bot
-Custom-built trading bots using technical indicators and ML for strategy optimization with up to 71% success rate.
+### 🤖 Algo Trading Bot  
+Custom-built trading bots using technical indicators and ML for strategy optimization with up to 71% success rate.  
 
-- 🔗 [Repo](https://github.com/naman-bhayana/algo-trading-bot)
-- ⚙️ Tech Stack: Python, Pandas, NumPy, TA-Lib, REST APIs
+- 🔗 [Repo](https://github.com/naman-bhayana/algo-trading-bot)  
+- ⚙️ Tech Stack: Python, Pandas, NumPy, TA-Lib, REST APIs  
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=naman-bhayana&theme=dark&hide_border=false)
