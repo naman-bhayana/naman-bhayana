@@ -1,131 +1,89 @@
 <div align="center">
-  <img src="./computer-rage.gif" alt="Computer Rage"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C10,55:0096F7,100:00D0EE&height=200&section=header&text=Naman%20Bhayana&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Head%20of%20AI%20Engineering%20%C2%B7%20ideasIQ%20%20%7C%20%20Founder%20%C2%B7%20Nexerah&descSize=18&descAlignY=58" width="100%" alt="Naman Bhayana — Head of AI Engineering at ideasIQ, Founder of Nexerah" />
+
+<a href="https://www.namanbhayana.com"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+the+whole+stack.;Agent+runtimes+%C2%B7+LLM+platforms+%C2%B7+multi-tenant+SaaS;From+zero+to+launch+%E2%80%94+and+then+to+revenue.;Fintech+%C2%B7+Healthcare+%C2%B7+E-commerce+%C2%B7+Enterprise+AI" alt="I build the whole stack." /></a>
+
+<a href="https://www.namanbhayana.com"><img src="https://img.shields.io/badge/namanbhayana.com-0A0C10?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" /></a>
+<a href="https://www.linkedin.com/in/namanbhayana007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:naman.bhayana13@gmail.com"><img src="https://img.shields.io/badge/Email-0A0C10?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
+<a href="https://www.instagram.com/naman_bhayana/"><img src="https://img.shields.io/badge/Instagram-0A0C10?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="https://x.com/bhayana_naman"><img src="https://img.shields.io/badge/X-0A0C10?style=for-the-badge&logo=x&logoColor=white" /></a>
+
 </div>
 
-# 💫 About Me:
-I’m Naman Bhayana, a Computer Engineering graduate passionate about building scalable solutions at the intersection of full stack development, machine learning, and blockchain. From automating job recruitment to empowering artists with NFT marketplaces, I thrive on solving real-world problems through tech.<br><br>👉 I engineer robust full stack applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), blending functionality with intuitive user experience.<br>👉 I’ve developed ML-powered systems for intelligent robotics and optimized trading strategies with custom indicators — bridging AI theory with practical applications.<br>👉 I explore blockchain by crafting decentralized platforms like ArtBlock to enable secure and direct monetization for digital creators.<br><br>Currently, I'm expanding my knowledge in advanced backend systems and distributed computing to build smarter, faster, and more inclusive technology.
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanbhayana007) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naman.bhayana13@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naman_bhayana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/bhayana_naman)
+### I take products from idea to launch — and own every layer in between.
 
+The agent runtime. The multi-tenant SaaS around it. The data and finance logic underneath. The go-to-market that gets it found, sold and used. I've been shipping that full stack for founders and enterprises since 2023, and today I lead AI engineering for an enterprise AI platform while building my own studio.
 
-# 💻 Tech Stack:
-
-## Languages:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=plastic&logo=mysql&logoColor=white)
-
-## Web & Backend Development:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic)
-![JSP](https://img.shields.io/badge/JSP-%23F7DF1E.svg?style=plastic)
-![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=plastic)
-![REST](https://img.shields.io/badge/REST-API-%2300ADD8.svg?style=plastic&logo=fastapi&logoColor=white)
-![RESTful](https://img.shields.io/badge/RESTful-APIs-%2300ADD8.svg?style=plastic)
-
-## State Management:
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-%237A1FA2.svg?style=plastic&logo=redux&logoColor=white)
-
-## Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
-
-## Machine Learning & AI:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230070AA.svg?style=plastic)
-
-## Blockchain/Web3:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-%23272D63.svg?style=plastic&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?style=plastic)
-![Web3.js](https://img.shields.io/badge/Web3.js-%23F16822.svg?style=plastic&logo=web3dotjs&logoColor=white)
-
-## Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%2300B3B0.svg?style=plastic&logo=hoppscotch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS--Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-
-## Visualization & Analytics:
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
-
-## 🚀 Featured Projects
-
-### 🏡 WanderNest – Vacation Rental App  
-A full-stack vacation rental platform with secure CRUD operations, Mapbox maps integration, and OAuth login for seamless booking experiences.  
-
-- 🔗 [Live](https://wandernest-j69y.onrender.com/) | [Repo](https://github.com/naman-bhayana/WanderNest)  
-- ⚙️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Mapbox, OAuth  
+| | Layer | What I own |
+|:-:|---|---|
+| 🧠 | **AI systems** | Agent runtimes, multi-agent research pipelines, RAG, model governance, voice agents, fine-tuned SLMs |
+| 🏗️ | **Product** | Multi-tenant SaaS, billing and subscriptions, dashboards, API-first platforms |
+| 📈 | **Data & finance** | Market-data pipelines, trading strategies, analytics and decision tools |
+| 🚀 | **Growth** | SEO & AEO, paid acquisition, autonomous outbound, analytics — the layer that turns a launch into revenue |
 
 ---
 
-### 🎮 Plinko – Interactive Physics Game  
-An engaging React + TypeScript-based Plinko game with real-time physics, smooth animations, and a responsive UI.  
+## ⚡ Building now
 
-- 🔗 [Live](https://plinko-frontend-hvak.onrender.com/) | [Repo](https://github.com/naman-bhayana/Plinko)  
-- ⚙️ Tech Stack: React, TypeScript, Physics.js, CSS  
+### ideasIQ — enterprise AI innovation platform &nbsp;·&nbsp; *Head of AI Engineering*
+Own the AI architecture behind a platform that takes an organisation's ideas from raw submission to scored, strategy-ready deliverables.
+- **Agent runtime** built in-house — retries, caching, cancellation, concurrency control — running a **14-stage research agent** that maps a market, challenges its own findings and ranks what's worth pursuing.
+- **Model governance across a 400+ model gateway** — tiered access, per-call cost provenance and per-organisation spend ceilings.
+- **Semantic graph backbone** — embeddings and knowledge graphs powering similarity, matching and recommendations across ideas.
+- **AI deliverables engine** turning scored ideas into decks, video and live websites across five generation providers.
+- **Knowledge Assistant** answering over a company's own documents, and a **tool-calling voice agent** that qualifies visitors and books meetings.
+- **Autonomous outbound engine** plus the SDR team that runs it.
+- **Next release:** fine-tuned small language models for cost-sensitive pipeline stages.
 
----
+[ideasiq.ai ↗](https://ideasiq.ai)
 
-### 🤖 Intellishop – AI-Powered Retail Robot  
-A smart in-store assistant that uses computer vision and NLP to guide customers and manage inventory in real time.  
+### myLeadsIQ — lead-intelligence SaaS &nbsp;·&nbsp; *private beta*
+Autonomous lead discovery across **11 live signal sources** with two-stage model routing, a reviewer-trained calibration loop, test-enforced tenant isolation, and evidence guards that downgrade any claim the model can't cite.
 
-- 🔗 [Repo](https://github.com/naman-bhayana/Intellishop)  
-- ⚙️ Tech Stack: Python, OpenCV, NLP, Machine Learning, Raspberry Pi, IoT  
-
----
-
-### 💼 Jobzee – Job Consultancy Platform  
-Full-stack web application connecting job seekers and recruiters, improving job matching efficiency by 30% and reducing search time by 20%.  
-
-- 🔗 [Repo](https://github.com/naman-bhayana/Jobzee)  
-- ⚙️ Tech Stack: MongoDB, Express.js, React.js, Node.js, RESTful APIs, Redux Toolkit  
+### Nexerah — AI product studio &nbsp;·&nbsp; *Founder, launching 2026*
+A premium studio that builds and grows AI products for businesses — automations, software and trading systems, plus the search, paid, social and outbound growth that gets them used. One team, from scope to shipped to sold.
 
 ---
 
-### 🎨 ArtBlock – NFT Marketplace  
-A blockchain-based NFT marketplace enabling artists to mint, list, and sell digital art securely.  
+## 🛠️ Selected work
 
-- 🔗 [Repo](https://github.com/naman-bhayana/ArtBlock)  
-- ⚙️ Tech Stack: Solidity, Web3.js, React, Redux, Smart Contracts, IPFS  
+| Project | Domain | What shipped |
+|---|---|---|
+| **[InvestBeans](https://investbeans.com)** | Fintech | Led engineering on a subscription market-analytics SaaS — market-data pipelines, the indicators behind its decision tools, dashboards and billing. |
+| **DocPad** | Healthcare | Cloud hospital-records platform — EMR, SNOMED CT clinical terminology, OCR on medical documents, API-first data exchange across hospitals and labs. |
+| **Artize Dental** | Healthcare | Web platform for a dental clinic brand, built end to end. |
+| **[Prozone](https://github.com/naman-bhayana/Prozone)** | Hardware · Automotive | Windows desktop app that reads emissions-testing equipment over serial and serves live gas and smoke readings through a local API. |
+| **SigmaBites · Sterling Naturals · New Gramophone House** | E-commerce | Order and inventory automation, backend workflows and storefront builds — cutting manual operations by 30–40%. |
+| **Algorithmic trading** · Allianz Exports | Quant | Strategies on proprietary technical indicators in Python and Pine Script, tuned through backtesting. |
+| **Recruitment platform** · Techlive Solutions | HR-tech | Full-stack hiring platform with real-time messaging and smarter job matching. |
+| **[AlphaGPT](https://github.com/naman-bhayana/AlphaGPT)** | AI | Conversational assistant with persistent multi-thread memory and streaming responses. |
+
+> Most of my production work lives in private repositories. Happy to walk through the architecture on a call.
 
 ---
 
-### 🤖 Algo Trading Bot  
-Custom-built trading bots using technical indicators and ML for strategy optimization with up to 71% success rate.  
+## 🧰 Stack
 
-- 🔗 [Repo](https://github.com/naman-bhayana/algo-trading-bot)  
-- ⚙️ Tech Stack: Python, Pandas, NumPy, TA-Lib, REST APIs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,nextjs,react,nodejs,fastapi,spring&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,aws,docker,kubernetes,githubactions,tensorflow,opencv&theme=dark" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=naman-bhayana&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-bhayana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**AI:** LLMs · agentic & multi-agent systems · RAG · vector search · LangChain · MCP · fine-tuning · voice AI · computer vision<br/>
+**Growth:** SEO & AEO · paid acquisition · outbound automation · analytics & attribution
 
-----
+---
 
+<div align="center">
 
-### ✍️ Quote for the Journey:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Building something ambitious? I take on a small number of engagements each quarter.**
 
-<!-- Created by Naman Bhayana -->
+[namanbhayana.com](https://www.namanbhayana.com) &nbsp;·&nbsp; [naman.bhayana13@gmail.com](mailto:naman.bhayana13@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D0EE,45:0096F7,100:0A0C10&height=110&section=footer" width="100%" />
+
+</div>
