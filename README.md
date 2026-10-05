@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C10,55:0096F7,100:00D0EE&height=200&section=header&text=Naman%20Bhayana&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Head%20of%20AI%20Engineering%20%C2%B7%20ideasIQ%20%20%7C%20%20Founder%20%C2%B7%20Nexerah&descSize=18&descAlignY=58" width="100%" alt="Naman Bhayana — Head of AI Engineering at ideasIQ, Founder of Nexerah" />
-
-<a href="https://www.namanbhayana.com"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+the+whole+stack.;Agent+runtimes+%C2%B7+LLM+platforms+%C2%B7+multi-tenant+SaaS;From+zero+to+launch+%E2%80%94+and+then+to+revenue.;Fintech+%C2%B7+Healthcare+%C2%B7+E-commerce+%C2%B7+Enterprise+AI" alt="I build the whole stack." /></a>
+<a href="https://www.namanbhayana.com"><img src="naman-github-banner_1.gif" width="100%" alt="Naman Bhayana — Head of AI Engineering at ideasIQ, Founder of Nexerah" /></a>
 
 <a href="https://www.namanbhayana.com"><img src="https://img.shields.io/badge/namanbhayana.com-0A0C10?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" /></a>
 <a href="https://www.linkedin.com/in/namanbhayana007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,6 +26,11 @@ The agent runtime. The multi-tenant SaaS around it. The data and finance logic u
 ---
 
 ## ⚡ Building now
+
+<p align="center">
+  <a href="https://ideasiq.ai"><img src="ideasiq-highlight.webp" width="49%" alt="ideasIQ — AI-first idea operating system" /></a>
+  <img src="myleadsiq-highlight.webp" width="49%" alt="myLeadsIQ — signal-based lead intelligence" />
+</p>
 
 ### ideasIQ — enterprise AI innovation platform &nbsp;·&nbsp; *Head of AI Engineering*
 Own the AI architecture behind a platform that takes an organisation's ideas from raw submission to scored, strategy-ready deliverables.
@@ -56,7 +59,7 @@ A premium studio that builds and grows AI products for businesses — automation
 | **[InvestBeans](https://investbeans.com)** | Fintech | Led engineering on a subscription market-analytics SaaS — market-data pipelines, the indicators behind its decision tools, dashboards and billing. |
 | **DocPad** | Healthcare | Cloud hospital-records platform — EMR, SNOMED CT clinical terminology, OCR on medical documents, API-first data exchange across hospitals and labs. |
 | **Artize Dental** | Healthcare | Web platform for a dental clinic brand, built end to end. |
-| **[Prozone](https://github.com/naman-bhayana/Prozone)** | Hardware · Automotive | Windows desktop app that reads emissions-testing equipment over serial and serves live gas and smoke readings through a local API. |
+| **Prozone** | Hardware · Automotive | Windows desktop app that reads emissions-testing equipment over serial and serves live gas and smoke readings through a local API. |
 | **SigmaBites · Sterling Naturals · New Gramophone House** | E-commerce | Order and inventory automation, backend workflows and storefront builds — cutting manual operations by 30–40%. |
 | **Algorithmic trading** · Allianz Exports | Quant | Strategies on proprietary technical indicators in Python and Pine Script, tuned through backtesting. |
 | **Recruitment platform** · Techlive Solutions | HR-tech | Full-stack hiring platform with real-time messaging and smarter job matching. |
